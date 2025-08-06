@@ -6,8 +6,8 @@
   - Mapping a Custom Domain to a Local Path
 
 ## 1. **Category**
- - [Networking](Networking)
- - [Web Infrastructure](Web#Infrastructure)
+ - [Networking](Networking.md)
+ - [Web Infrastructure](Web.md#Infrastructure)
 
 ### 2. **Subcategories**  
 - DHCP (Dynamic Host Configuration Protocol)  
@@ -47,8 +47,8 @@ To make aohycent.bow point to a folder like `/usr/bow/bns/aohycent/www`, you nee
 ---
 
 **up next**
-- [setting up a unique TLD (step-by-step guide)](TLD_.bow)
+- [setting up a unique TLD (step-by-step guide)](TLD_dot-bow.md)
   
 Or `dive deeper into DNS` >>>
 
-- [zone file structure](DNS_zone)
+- [zone file structure](DNS_zone.md)
