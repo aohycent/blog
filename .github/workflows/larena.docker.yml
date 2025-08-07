@@ -16,5 +16,5 @@ jobs:
     - name: Build the site in the larena/builder container
       run: |
         docker run \
-        -v ${{ github.workspace }}:/srv/larena -v ${{ github.workspace }}/_site:/srv/larena/_site \
-        larena/builder:latest /bin/bash -c "chmod -R 777 /srv/larena && larena build --future"
+        -v ${{ github.workspace }}:/srv/blog -v ${{ github.workspace }}/_site:/srv/blog/_site \
+        blog/builder:latest /bin/bash -c "chmod -R 777 /srv/blog && blog build --future"
