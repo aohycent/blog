@@ -116,8 +116,8 @@ If you want `.bow` to work across multiple devices on your network:
 
 You may need help on scripting automated setup 
 `for more` >>
-> [automation setup script](DNS_setup-script.md)
+> [automation setup script](DNS_zone-files.md)
 
 Or `dive deeper` into DNS Zone files 
 `how to` >>
->  [simulate authoritative responses](DNS_auth-responses.md)
+>  [simulate authoritative responses](DNS_zone-files.md#-simulating-authoritative-dns-locally)
