@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # NS ENV settings
-title: Legendary Arena
+title: Blog
 email: developer@larena.bow
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aohycent.github.io" # the base hostname & protocol for your site
 github_username:  aohycent
 
